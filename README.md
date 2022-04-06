@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Armin</h1>
 <h3 align="center">Student in Düsseldorf, Germany</h3>
 
-- 🌱 I’m currently learning **Python**
-
 <p align="left">
 </p>
 
